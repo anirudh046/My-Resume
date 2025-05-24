@@ -1,2 +1,2 @@
 # My-Resume
-Creating my resume using html only
+Creating my resume (portfolio)
