@@ -39,3 +39,8 @@ h1{
 .note{
   font-weight: normal;
 }
+
+img{
+  height: 180px;
+  width: 180px;
+}
