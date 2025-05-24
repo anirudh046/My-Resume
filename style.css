@@ -26,3 +26,7 @@ h1{
 .red-text{
   color: red;
 }
+
+.note{
+  font-weight: normal;
+}
