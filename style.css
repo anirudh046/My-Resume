@@ -3,5 +3,9 @@ h1{
 }
 
 .note{
-  color:slategrey;
+  color:rgb(1, 50, 245);
+}
+
+.red-text{
+  color: red;
 }
