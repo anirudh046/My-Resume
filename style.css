@@ -1,18 +1,27 @@
 *{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+*{
   font-size: 20px;
 }
+
 
 *{
   text-align: center;
 }
 
+
 h1{
   color:rgb(7, 7, 7);
 }
 
+
 .note{
   color:rgb(1, 50, 245);
 }
+
 
 .red-text{
   color: red;
