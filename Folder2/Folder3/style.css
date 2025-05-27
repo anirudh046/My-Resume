@@ -1,0 +1,21 @@
+html{
+    background-color: #e9dcbc;
+}   
+
+img{
+    height: 500px;
+    width: 500px;
+    margin-top: 40px;
+    border: 13px solid #7a4f05;
+}
+
+#image1{
+    color:rgb(13, 11, 11);
+    text-align: center;
+    font-weight: 1000;
+    font-family: "Libre Baskerville", serif;
+}
+
+h1{
+    text-transform: uppercase;
+}
